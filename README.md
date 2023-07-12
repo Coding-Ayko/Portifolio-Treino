@@ -1,2 +1,2 @@
-# Portifolio-Treino
-Treino de criação de um Portilólio utilizando HTML e CSS
+# Portfolio-Treino
+Treino de criação de um Portfólio utilizando HTML e CSS
